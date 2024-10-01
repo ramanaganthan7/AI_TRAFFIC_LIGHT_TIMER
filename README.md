@@ -5,7 +5,7 @@
     <img src="output/out1.png">
   </li>
   <li>
-    <p>Output Timeings for each Lane traffic Ligts</p>
+    <p>Output Timeings for each Lane traffic Lights</p>
     <img src="output/out2.png">
   </li>
 </ul>
