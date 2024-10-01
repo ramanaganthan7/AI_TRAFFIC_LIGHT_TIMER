@@ -85,3 +85,7 @@ green_times, yellow_time, red_times = calculate_signal_times(densities)
 # Print the timings for each lane
 for i in range(4):
     print(f"Lane {i + 1}: Green time: {green_times[i]}s, Yellow time: {yellow_time}s, Red time: {red_times[i]}s")
+
+
+
+cv2.destroyAllWindows()
